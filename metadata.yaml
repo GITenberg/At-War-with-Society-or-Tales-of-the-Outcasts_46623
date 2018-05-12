@@ -1,15 +1,16 @@
 _repo: At-War-with-Society-or-Tales-of-the-Outcasts_46623
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46623/46623-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46623-h/images/cover.jpg
 creator:
   author:
     agent_name: McLevy, James
     gutenberg_agent_id: '43879'
     url: http://www.gutenberg.org/2009/agents/43879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46623#At-War-with-Society-or-Tales-of-the-Outcasts
 gutenberg_issued: '2014-08-19'
 gutenberg_type: Text
 identifiers:
